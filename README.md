@@ -35,7 +35,7 @@ Server listens on `process.env.PORT` or `http://localhost:3000`.
    - Start Command: `npm start`
 4. Set the service name to `event-api-<yourname>` (optional).
 
-Your live URL will be `https://<your-service-name>.onrender.com`.
+Your live URL will be `https://eventhub-api-niranjan.onrender.com`.
 
 ## Files created
 
