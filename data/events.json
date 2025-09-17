@@ -1,0 +1,13 @@
+[
+  {
+    "eventId": "EVT-1758086295471",
+    "title": "Tech Meetup",
+    "description": "",
+    "date": "2025-09-20",
+    "location": "Bangalore",
+    "maxAttendees": 100,
+    "currentAttendees": 0,
+    "status": "upcoming",
+    "createdAt": "2025-09-17T05:18:15.472Z"
+  }
+]
